@@ -1,0 +1,12 @@
+{
+    "blogs": [
+        {
+            "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas, officiis.",
+            "content" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, dolore asperiores eos iste nostrum explicabo labore impedit ipsam temporibus tenetur eius, fuga repudiandae molestias magni maxime ipsa quasi ullam magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, dolore asperiores eos iste nostrum explicabo labore impedit ipsam temporibus tenetur eius, fuga repudiandae molestias magni maxime ipsa quasi ullam magnam!"
+        },
+        {
+            "title": "Lorem ipsum dolor sit, amet consectetur",
+            "content" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, dolore asperiores eos iste nostrum explicabo labore impedit ipsam temporibus tenetur eius, fuga repudiandae molestias magni maxime ipsa quasi ullam magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, dolore asperiores eos iste nostrum explicabo labore impedit ipsam temporibus tenetur eius, fuga repudiandae molestias magni maxime ipsa quasi ullam magnam!"
+        }
+    ]
+}

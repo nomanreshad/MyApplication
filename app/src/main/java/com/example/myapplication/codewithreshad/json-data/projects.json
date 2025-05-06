@@ -1,0 +1,26 @@
+{
+    "projects": [
+        {
+            "photo": "../images/project1.png",
+            "name" : "Tic-Tac-Toe",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "madeBy" : "By me",
+            "projectId" : "project1",
+            "file": {
+                "url": "https://github.com/Md-Noman-Hassan-Reshad/TIC_TAC_TOE_IN_PYTHON/archive/refs/heads/main.zip",
+                "externalLink": null
+            }
+        },
+        {
+            "photo": "../images/port-img2.jpg",
+            "name" : "UI/UX Design",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "madeBy" : "By me",
+            "projectId" : "project2",
+            "file": {
+                "url": null,
+                "externalLink": "https://github.com/"
+            }
+        }
+    ]
+}
